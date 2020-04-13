@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.navbar{
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+}
+.social{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.content{
+    margin-top: 30vh;
+    width:50%;
+}
+.content > h1{
+    font-weight: 600;
+    /* letter-spacing: 1.2px; */
+    font-size: 34px;
+}
+.content > h1 > span{
+    border-bottom: 5px solid #D52424;
+}
+.content > p{
+    color: #aaa;
+    font-size: 16px;
+}

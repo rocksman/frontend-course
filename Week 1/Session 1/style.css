@@ -1,0 +1,14 @@
+body{
+    background: green;
+}
+
+#ron{
+    border-radius: 50%;
+}
+/* syntax
+identifier {
+    propoerties: value;
+} */
+
+/* using tags
+using classes and IDs */
